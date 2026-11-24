@@ -1,4 +1,4 @@
-🎮 Brick Breaker
+# 🎮 Brick Breaker
 
 A simple Brick Breaker arcade game developed using Python and Pygame.
 
